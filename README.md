@@ -1,1 +1,3 @@
-# element
+@startuml
+Bob -> Alice : hello
+@enduml
