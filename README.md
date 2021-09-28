@@ -1,3 +1,3 @@
 @startuml
-Allo -> Olla : Hi
+Allo -> Olla : Hid
 @enduml
