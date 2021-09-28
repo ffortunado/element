@@ -1,3 +1,3 @@
 @startuml
-Allo -> Olla : Hid
+Allo -> Olla : Hiduuu
 @enduml
