@@ -1,3 +1,3 @@
 @startuml
-Bob -> Alice : hello
+Allo -> Olla : Hi
 @enduml
